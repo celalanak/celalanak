@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 I am currently working Freelancer Jr.Web Developer.<br><br>
+🔧 I am currently working Freelancer Jr.Software Developer.<br><br>
 📚 I am learning C, C++ and Python languages and making rapid progress.<br><br>
 🤔 By asking me questions, you can help my development as well as support your own growth.
 
