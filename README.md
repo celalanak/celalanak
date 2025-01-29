@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔧 I am currently working as an End-User Specialist at SOCAR Turkey oil company.<br><br>
-📚 I am learning C and C++ languages and making rapid progress.<br><br>
+🔧 I am currently working Freelancer Jr.Web Developer.<br><br>
+📚 I am learning C, C++ and Python languages and making rapid progress.<br><br>
 🤔 By asking me questions, you can help my development as well as support your own growth.
 
 
